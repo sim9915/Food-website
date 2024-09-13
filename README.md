@@ -1,2 +1,1 @@
-# Food-website
-this is a food website
+# fast-food-website
